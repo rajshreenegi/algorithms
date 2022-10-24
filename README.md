@@ -281,18 +281,18 @@ You can contribute to any open source project hosted on Github.com and contribut
 | Kadane's Algorithms                       |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
 | KMP Algorithm                             |                    |                    |                    |                    |                    |        |     |                       |
 | Kruskal’s Minimum Spanning Tree Algorithm |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
-| Linear Search                             |                    | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |        |     |                       |
+| Linear Search                             | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: | :white_check_mark: |        |     |                       |
 | Longest Common Subsequence                |                    |                    |                    |                    |                    |        |     |                       |
 | Longest Increasing Subsequence            |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
 | Longest Palindromic Substring             |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
 | Merge Sort                                | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |                    |        |     | TS :white_check_mark: |
 | Naive Search                              |                    |                    |                    |                    |                    |        |     |                       |
-| Quick Sort                                |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
+| Quick Sort                                | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |        |     |                       |
 | Radix Sort                                |                    |                    |                    |                    |                    |        |     |                       |
 | Selection Sort                            |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
 | Sieve of Eratosthenes                     |                    | :white_check_mark: |                    |                    |                    |        |     |                       |
 | Suffix Array                              |                    |                    |                    |                    |                    |        |     |                       |
-| Shell Sort                                |                    |                    |                    |                    |                    |        |     |                       |
+| Shell Sort                                | :white_check_mark: |                    |                    |                    |                    |        |     |                       |
 
 ## Some CP Question
 
